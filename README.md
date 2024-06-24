@@ -3,6 +3,12 @@
     <h1>Hi there, I'm Aleksandra</h1>
     <h3>Backend Developer from Berlin</h3>
 </div>
+<a href="[https://www.linkedin.com/in/aleksandra-cheidze-371148254/]">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+ <a href="[https://t.me/AlexaCxeidze]">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
 
 <!--
 **AleksandraCheidze/AleksandraCheidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
