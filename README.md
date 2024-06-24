@@ -1,4 +1,8 @@
 ## Hi there 👋
+<div id="header" align="center">
+    <h1>Hi there, I'm Aleksandra</h1>
+    <h3>Backend Developer from Berlin</h3>
+</div>
 
 <!--
 **AleksandraCheidze/AleksandraCheidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
