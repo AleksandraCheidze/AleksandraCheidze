@@ -12,18 +12,19 @@
     </div>
 
 
-🔭 I’m currently working on ...  
-🌱 I’m currently learning ...  
-👯 I’m looking to collaborate on ...  
-🤔 I’m looking for help with ...  
-💬 Ask me about ...  
-📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin-url)](linkedin-url) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=twitter-url)](twitter-url)  
-😄 Pronouns: ...  
-⚡ Fun fact: ...
+🔭 I’m currently working on backend projects using Java and Spring Boot.
+🌱 I’m currently learning advanced microservices architecture and Kubernetes.
+👯 I’m looking to collaborate on backend development and API design.
+🤔 I’m looking for help with optimizing database performance.
+💬 Ask me about Java, Spring Boot, and RESTful APIs. 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aleksandra-cheidze-371148254)
+😄 Pronouns: she/her
+⚡ Fun fact: I enjoy solving complex algorithms and puzzles in my free time.
 
 ## About Me
 
-I'm a **Back-end Developer** from Berlin, specializing in building  exceptional digital experiences. Currently, I'm focused on building responsive web applications and learning new technologies.
+I'm a **Junior Back-end Developer** based in Berlin, dedicated to creating quality digital experiences. Currently, I'm focused on building responsive web applications and expanding my knowledge of new technologies.
+
 
 ## Skills
 
