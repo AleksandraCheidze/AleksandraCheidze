@@ -17,7 +17,7 @@
 👯 I’m looking to collaborate on backend development and API design<br>
 🤔 I’m looking for help with optimizing database performance<br>
 💬 Ask me about Java, Spring Boot, and RESTful APIs<br>
-📫 How to reach me: <a href="https://www.linkedin.com/in/aleksandra-cheidze-371148254">LinkedIn</a><br>
+📫 How to reach me: <a href="https://www.linkedin.com/in/aleksandra-cheidze-371148254">LinkedIn</a> | <a href="https://t.me/AlexaCxeidze">Telegram</a><br>
 😄 Pronouns: she/her<br>
 ⚡ Fun fact: I enjoy solving complex algorithms and puzzles in my free time
 ## About Me
