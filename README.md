@@ -36,9 +36,12 @@ I'm a **Junior Back-end Developer** based in Berlin, dedicated to creating quali
 
 Here are some of my notable projects:
 
-- **Project 1**: Description of the project. [Link to project](project-url)
-- **Project 2**: Description of the project. [Link to project](project-url)
-- **Project 3**: Description of the project. [Link to project](project-url)
+Here are some of my notable projects:
+
+- **[BeautyBook](https://github.com/AleksandraCheidze/BeautyBook)**
+- **[LMS](https://github.com/AleksandraCheidze/LMS.git)**
+- **[React-Sneakers](https://github.com/AleksandraCheidze/React-Sneakers.git)**
+- **[Project 3](https://github.com/AleksandraCheidze/project-3.git)**
 
 
 ## Let's Connect!
