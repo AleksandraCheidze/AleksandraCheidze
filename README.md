@@ -12,14 +12,14 @@
     </div>
 
 
-🔭 I’m currently working on backend projects using Java and Spring Boot.
-🌱 I’m currently learning advanced microservices architecture and Kubernetes.
-👯 I’m looking to collaborate on backend development and API design.
-🤔 I’m looking for help with optimizing database performance.
-💬 Ask me about Java, Spring Boot, and RESTful APIs. 
+🔭 I’m currently working on backend projects using Java and Spring Boot
+🌱 I’m currently learning advanced microservices architecture and Kubernetes
+👯 I’m looking to collaborate on backend development and API design
+🤔 I’m looking for help with optimizing database performance
+💬 Ask me about Java, Spring Boot, and RESTful APIs
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aleksandra-cheidze-371148254)
 😄 Pronouns: she/her
-⚡ Fun fact: I enjoy solving complex algorithms and puzzles in my free time.
+⚡ Fun fact: I enjoy solving complex algorithms and puzzles in my free time
 
 ## About Me
 
@@ -41,7 +41,6 @@ Here are some of my notable projects:
 - **Project 2**: Description of the project. [Link to project](project-url)
 - **Project 3**: Description of the project. [Link to project](project-url)
 
-Feel free to check out my [portfolio](portfolio-url) for more details about my work and experience.
 
 ## Let's Connect!
 
