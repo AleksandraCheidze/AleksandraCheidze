@@ -12,15 +12,14 @@
     </div>
 
 
-🔭 I’m currently working on backend projects using Java and Spring Boot
-🌱 I’m currently learning advanced microservices architecture and Kubernetes
-👯 I’m looking to collaborate on backend development and API design
-🤔 I’m looking for help with optimizing database performance
-💬 Ask me about Java, Spring Boot, and RESTful APIs
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aleksandra-cheidze-371148254)
-😄 Pronouns: she/her
+<br>🔭 I’m currently working on backend projects using Java and Spring Boot<br>
+🌱 I’m currently learning advanced microservices architecture and Kubernetes<br>
+👯 I’m looking to collaborate on backend development and API design<br>
+🤔 I’m looking for help with optimizing database performance<br>
+💬 Ask me about Java, Spring Boot, and RESTful APIs<br>
+📫 How to reach me: <a href="https://www.linkedin.com/in/aleksandra-cheidze-371148254">LinkedIn</a><br>
+😄 Pronouns: she/her<br>
 ⚡ Fun fact: I enjoy solving complex algorithms and puzzles in my free time
-
 ## About Me
 
 I'm a **Junior Back-end Developer** based in Berlin, dedicated to creating quality digital experiences. Currently, I'm focused on building responsive web applications and expanding my knowledge of new technologies.
