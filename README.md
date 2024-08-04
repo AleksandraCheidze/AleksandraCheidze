@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <h1>Hi there, I'm Aleksandra 👋</h1>
-    <h3>Back-end Developer from Berlin</h3>
+    <h3>Junior Back-end Developer from Berlin</h3>
 
 <a href="https://www.linkedin.com/in/aleksandra-cheidze-371148254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
