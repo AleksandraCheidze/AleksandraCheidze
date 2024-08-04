@@ -41,7 +41,7 @@ Here are some of my notable projects:
 - **[BeautyBook](https://github.com/AleksandraCheidze/BeautyBook)**
 - **[LMS](https://github.com/AleksandraCheidze/LMS.git)**
 - **[React-Sneakers](https://github.com/AleksandraCheidze/React-Sneakers.git)**
-- **[ExpensesCategoryManager]([https://github.com/AleksandraCheidze/project-3.git](https://github.com/AleksandraCheidze/ExpensesCategoryManager.git))**
+- **[ExpensesCategoryManager](https://github.com/AleksandraCheidze/ExpensesCategoryManager.git)**
 
 
 ## Let's Connect!
