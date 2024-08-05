@@ -15,7 +15,6 @@
 <br>🔭 I’m currently working on backend projects using Java and Spring Boot<br>
 🌱 I’m currently learning advanced microservices architecture and Kubernetes<br>
 👯 I’m looking to collaborate on backend development and API design<br>
-🤔 I’m looking for help with optimizing database performance<br>
 💬 Ask me about Java, Spring Boot, and RESTful APIs<br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/aleksandra-cheidze-371148254">LinkedIn</a> | <a href="https://t.me/AlexaCxeidze">Telegram</a><br>
 😄 Pronouns: she/her<br>
