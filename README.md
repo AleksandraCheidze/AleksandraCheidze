@@ -22,7 +22,7 @@
 ⚡ Fun fact: I enjoy solving complex algorithms and puzzles in my free time
 ## About Me
 
-I'm a **Junior Back-end Developer** based in Berlin, dedicated to creating quality digital experiences. Currently, I'm focused on building responsive web applications and expanding my knowledge of new technologies.
+I'm a **Junior Backend Developer** based in Berlin, dedicated to creating quality digital experiences. Currently, I'm focused on building responsive web applications and expanding my knowledge of new technologies.
 
 
 ## Skills
