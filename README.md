@@ -35,9 +35,9 @@ I'm a **Junior Backend Developer** based in Berlin, dedicated to creating qualit
 
 Here are some of my notable projects:
 
-- **[BeautyBook](https://github.com/AleksandraCheidze/BeautyBook)**
+- **[BeautyTreatmentBookingSystem](https://github.com/AleksandraCheidze/BeautyBook)**
 - **[CryptoTradingPlatform](https://github.com/AleksandraCheidze/Cassandra_Trading.git)**
-- **[LMS](https://github.com/AleksandraCheidze/LMS.git)**
+- **[LeanrningManagmentSystem](https://github.com/AleksandraCheidze/LMS.git)**
 - **[ExpensesCategoryManager](https://github.com/AleksandraCheidze/ExpensesCategoryManager.git)**
 
 
