@@ -39,6 +39,7 @@ Here are some of my notable projects:
 - **[CryptoTradingPlatform](https://github.com/AleksandraCheidze/Cassandra_Trading.git)**
 - **[LeanrningManagmentSystem](https://github.com/AleksandraCheidze/LMS.git)**
 - **[ExpensesCategoryManager](https://github.com/AleksandraCheidze/ExpensesCategoryManager.git)**
+- **[ExpensesCategoryManager](https://github.com/AleksandraCheidze/React-Sneakers.git)**
 
 
 ## Let's Connect!
