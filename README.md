@@ -38,8 +38,8 @@ Here are some of my notable projects:
 - **[BeautyTreatmentBookingSystem](https://github.com/AleksandraCheidze/BeautyBook)**
 - **[CryptoTradingPlatform](https://github.com/AleksandraCheidze/Cassandra_Trading.git)**
 - **[LeanrningManagmentSystem](https://github.com/AleksandraCheidze/LMS.git)**
-- **[ExpensesCategoryManager](https://github.com/AleksandraCheidze/ExpensesCategoryManager.git)**
 - **[ReactSneakersShop](https://github.com/AleksandraCheidze/React-Sneakers.git)**
+- **[ExpensesCategoryManager](https://github.com/AleksandraCheidze/ExpensesCategoryManager.git)**
 
 
 ## Let's Connect!
