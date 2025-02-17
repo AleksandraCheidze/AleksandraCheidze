@@ -18,18 +18,21 @@
 💬 Ask me about Java, Spring Boot, and RESTful APIs<br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/aleksandra-cheidze-371148254">LinkedIn</a> | <a href="https://t.me/AlexaCxeidze">Telegram</a><br>
 😄 Pronouns: she/her<br>
-⚡ Fun fact: I enjoy solving complex algorithms and puzzles in my free time
+⚡ Fun fact: In my free time, I enjoy diving into new ideas and projects—whether it’s something related to self-development or simply exploring interesting topics.
 ## About Me
 
-I'm a **Junior Backend Developer** based in Berlin, dedicated to creating quality digital experiences. Currently, I'm focused on building responsive web applications and expanding my knowledge of new technologies.
-
+I'm a **Junior Software Developer** based in Berlin with a focus on Backend and Fullstack development, passionate about creating powerful, scalable systems. I'm always curious about how things work behind the scenes and strive to build solutions that are not only functional but also efficient.
 
 ## Skills
 
-- **Languages**: Java, JavaScript
-- **Frameworks**: SpringBoot, React, Node.js, Redux ToolKit
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools**: Git, Docker, Jenkins, AWS
+- **Languages**: Java, JavaScript, TypeScript, SQL
+- **Frameworks**: Spring Boot, Jakarta EE, React, Redux Toolkit, React-Router-Dom, Tailwind CSS, Shadcn/UI, Bootstrap, Node.JS
+- **Testing**: Junit, Mockito
+- **Databases**: MySQL, H2, MongoDB, PostgreSQL
+- **DevOps**: Docker, Kubernetes, DigitalOcean, Railway, IONOS, Jenkins, CI/CD, AWS, Cloudinary, Cloud Services
+- **Tools**: Git/GitHub, IntelliJ IDEA, VS Code, Postman, Apache Maven, Gradle, Figma, Swagger/OpenAPI
+- **Development practices**: Object-Oriented Programming(OOP), RESTful API, Software Designe Patterns, Microservices Architecture (Apache Kafka), Software Architecture, Code-Reviews
+- **Methodology**: Agile, Scrum, Kanban
 
 ## Projects
 
