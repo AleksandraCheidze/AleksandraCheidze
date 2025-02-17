@@ -23,14 +23,14 @@ I'm a **Junior Software Developer** based in Berlin with a focus on Backend and 
 
 ## Skills
 
-- **Languages**: ![Java](https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo.png) Java, ![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png), ![TypeScript](https://img.icons8.com/ios-filled/50/000000/typescript.png), ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)
-- **Frameworks**: ![Spring Boot](https://img.icons8.com/ios-filled/50/000000/spring-logo.png) Spring Boot, ![React](https://img.icons8.com/ios-filled/50/000000/react.png) React, ![Redux](https://img.icons8.com/ios-filled/50/000000/redux.png) Redux Toolkit, ![Tailwind CSS](https://img.icons8.com/ios-filled/50/000000/tailwind-css.png) Tailwind CSS, ![Node.js](https://img.icons8.com/ios-filled/50/000000/nodejs.png) Node.js
-- **Testing**: ![JUnit](https://img.icons8.com/ios-filled/50/000000/junit5.png) JUnit, ![Mockito](https://img.icons8.com/ios-filled/50/000000/mockito.png) Mockito
-- **Databases**: ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) MySQL, ![H2](https://img.icons8.com/ios-filled/50/000000/h2-database.png) H2, ![MongoDB](https://img.icons8.com/ios-filled/50/000000/mongodb.png) MongoDB, ![PostgreSQL](https://img.icons8.com/ios-filled/50/000000/postgreesql.png) PostgreSQL
-- **DevOps**: ![Docker](https://img.icons8.com/ios-filled/50/000000/docker.png) Docker, ![Kubernetes](https://img.icons8.com/ios-filled/50/000000/kubernetes.png) Kubernetes, ![AWS](https://img.icons8.com/ios-filled/50/000000/amazon-web-services.png) AWS, ![CI/CD](https://img.icons8.com/ios-filled/50/000000/continuous-delivery.png) CI/CD
-- **Tools**: ![Git](https://img.icons8.com/ios-filled/50/000000/git.png) Git/GitHub, ![VS Code](https://img.icons8.com/ios-filled/50/000000/visual-studio-code.png) VS Code, ![IntelliJ IDEA](https://img.icons8.com/ios-filled/50/000000/intellij-idea.png) IntelliJ IDEA, ![Postman](https://img.icons8.com/ios-filled/50/000000/postman.png) Postman
-
-
+- **Languages**: ☕ Java, ⚡ JavaScript, 🔵 TypeScript, 🗃 SQL
+- **Frameworks**: 🌱 Spring Boot, 💻 React, 🔄 Redux Toolkit, 🧩 Node.js, 🎨 Tailwind CSS, 🧭 Jakarta EE
+- **Testing**: ✅ JUnit, 🧪 Mockito
+- **Databases**: 🗄 MySQL, 💾 PostgreSQL, 🧱 MongoDB, 🏛 H2
+- **DevOps**: 🐳 Docker, 🧭 Kubernetes, ☁️ AWS, 🔗 CI/CD, 🔌 Jenkins
+- **Tools**: 🔧 Git/GitHub, 📍 VS Code, 🛠 IntelliJ IDEA, 🚀 Postman, 🗂 Swagger/OpenAPI
+- **Development Practices**: 🧩 OOP, 🔗 RESTful API, 🧵 Design Patterns, 🌍 Microservices Architecture (Apache Kafka)
+- **Methodology**: 🔄 Agile, 📅 Scrum, 🗂 Kanban
 
 ## Projects
 
