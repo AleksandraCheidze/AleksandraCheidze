@@ -12,12 +12,10 @@
     </div>
 
 
-<br>🔭 I’m currently working on backend projects using Java and Spring Boot<br>
-🌱 I’m currently learning advanced microservices architecture and Kubernetes<br>
-👯 I’m looking to collaborate on backend development and API design<br>
-💬 Ask me about Java, Spring Boot, and RESTful APIs<br>
+<br>🔭 I’m currently working on frontend development for my backend project, the crypto trading platform “Cassandra Trading.”<br>
+🌱 I’m currently learning Apache Kafka for Event-Driven Spring Boot Microservices at Udemy<br>
+👯 I’m looking to collaborate on fullstack development, with a strong focus on backend systems and scalable solutions<br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/aleksandra-cheidze-371148254">LinkedIn</a> | <a href="https://t.me/AlexaCxeidze">Telegram</a><br>
-😄 Pronouns: she/her<br>
 ⚡ Fun fact: In my free time, I enjoy diving into new ideas and projects—whether it’s something related to self-development or simply exploring interesting topics.
 ## About Me
 
@@ -25,14 +23,15 @@ I'm a **Junior Software Developer** based in Berlin with a focus on Backend and 
 
 ## Skills
 
-- **Languages**: Java, JavaScript, TypeScript, SQL
-- **Frameworks**: Spring Boot, Jakarta EE, React, Redux Toolkit, React-Router-Dom, Tailwind CSS, Shadcn/UI, Bootstrap, Node.JS
-- **Testing**: Junit, Mockito
-- **Databases**: MySQL, H2, MongoDB, PostgreSQL
-- **DevOps**: Docker, Kubernetes, DigitalOcean, Railway, IONOS, Jenkins, CI/CD, AWS, Cloudinary, Cloud Services
-- **Tools**: Git/GitHub, IntelliJ IDEA, VS Code, Postman, Apache Maven, Gradle, Figma, Swagger/OpenAPI
-- **Development practices**: Object-Oriented Programming(OOP), RESTful API, Software Designe Patterns, Microservices Architecture (Apache Kafka), Software Architecture, Code-Reviews
+- **Languages**: ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java, ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png), ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png), ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+- **Frameworks**: ![Spring Boot](https://img.icons8.com/ios-filled/50/000000/spring-logo.png) Spring Boot, ![Jakarta EE](https://img.icons8.com/color/48/000000/java-ee.png) Jakarta EE, ![React](https://img.icons8.com/ios-filled/50/000000/react.png) React, ![Redux](https://img.icons8.com/ios-filled/50/000000/redux.png) Redux Toolkit, ![Tailwind CSS](https://img.icons8.com/ios-filled/50/000000/tailwind-css.png) Tailwind CSS, ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+- **Testing**: ![JUnit](https://img.icons8.com/ios-filled/50/000000/junit5.png) JUnit, ![Mockito](https://img.icons8.com/ios-filled/50/000000/mockito.png) Mockito
+- **Databases**: ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) MySQL, ![H2](https://img.icons8.com/ios-filled/50/000000/h2-database.png) H2, ![MongoDB](https://img.icons8.com/ios-filled/50/000000/mongodb.png) MongoDB, ![PostgreSQL](https://img.icons8.com/ios-filled/50/000000/postgreesql.png) PostgreSQL
+- **DevOps**: ![Docker](https://img.icons8.com/ios-filled/50/000000/docker.png) Docker, ![Kubernetes](https://img.icons8.com/ios-filled/50/000000/kubernetes.png) Kubernetes, ![AWS](https://img.icons8.com/ios-filled/50/000000/amazon-web-services.png) AWS, ![Cloudinary](https://img.icons8.com/ios-filled/50/000000/cloudinary.png) Cloudinary, ![CI/CD](https://img.icons8.com/ios-filled/50/000000/continuous-delivery.png) CI/CD
+- **Tools**: ![Git](https://img.icons8.com/ios-filled/50/000000/git.png) Git/GitHub, ![IntelliJ IDEA](https://img.icons8.com/ios-filled/50/000000/intellij-idea.png) IntelliJ IDEA, ![VS Code](https://img.icons8.com/ios-filled/50/000000/visual-studio-code.png) VS Code, ![Postman](https://img.icons8.com/ios-filled/50/000000/postman.png) Postman
+- **Development Practices**: OOP, RESTful API, Software Design Patterns, Microservices Architecture (Apache Kafka), Software Architecture, Code Reviews
 - **Methodology**: Agile, Scrum, Kanban
+
 
 ## Projects
 
