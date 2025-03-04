@@ -3,17 +3,13 @@
     <h1> 🌟 Hi there, I'm Aleksandra 👋 🌟</h1>
     <h3>Junior Fullstack Developer from Berlin with a focus on Backend </h3>
 
-
-
-   
-
-
 <br>🔭 I’m currently working on frontend development for my backend project, the crypto trading platform “Cassandra Trading.”<br>
 🌱 I’m currently learning Apache Kafka for Event-Driven Spring Boot Microservices at Udemy<br>
 👯 I’m looking to collaborate on fullstack development, with a strong focus on backend systems and scalable solutions<br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/aleksandra-cheidze-371148254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="50" height="20"/>
 </a>
+
 <a href="https://t.me/AlexaCxeidze">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="50" height="20"/>
 </a> <br>
