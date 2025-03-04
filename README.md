@@ -77,7 +77,8 @@ Here are some of my notable projects:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraCheidze&layout=compact&theme=tokyonight&langs_count=4)
 
 
-  
+  ### 🔥 GitHub Activity
+This "snake" visualizes my GitHub activity over the past 365 days
 <p align="center">
   <img src="https://raw.githubusercontent.com/AleksandraCheidze/AleksandraCheidze/output/github-contribution-grid-snake-dark.svg"/>
 </p>
