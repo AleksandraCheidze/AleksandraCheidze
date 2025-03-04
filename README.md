@@ -4,13 +4,13 @@
     <h3>Junior Fullstack Developer from Berlin with a focus on Backend </h3>
 
 <a href="https://www.linkedin.com/in/aleksandra-cheidze-371148254/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="30"/>
 </a>
 <a href="https://t.me/AlexaCxeidze">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="150" height="30"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="100" height="30"/>
 </a>
 
-    </div>
+   
 
 
 <br>🔭 I’m currently working on frontend development for my backend project, the crypto trading platform “Cassandra Trading.”<br>
