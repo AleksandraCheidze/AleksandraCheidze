@@ -74,7 +74,8 @@ Here are some of my notable projects:
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
 
 ### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraCheidze&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraCheidze&layout=compact&theme=tokyonight&langs_count=5)
+
 
 
 
