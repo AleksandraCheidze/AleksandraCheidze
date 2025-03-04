@@ -87,8 +87,7 @@ This "snake" visualizes my GitHub activity over the past 365 days
 <p align="center">
   <img src="https://raw.githubusercontent.com/AleksandraCheidze/AleksandraCheidze/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-### 🔥 GitHub Stats
-![AleksandraCheidze's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandraCheidze&show_icons=true&count_private=true&theme=tokyonight)
+
 
 
 
