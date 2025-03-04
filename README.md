@@ -36,23 +36,23 @@ I'm a **Junior Software Developer** based in Berlin with a focus on Backend and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> React  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="20" height="20"/> Redux Toolkit  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20"/> Node.js  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20" height="20"/> Tailwind CSS  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/> Jakarta EE  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="20" height="20"/> Tailwind CSS  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Jakarta_EE_logo.svg" width="20" height="20"/> Jakarta EE  
 
 - **Testing**:  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/> JUnit  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mockito/mockito-original.svg" width="20" height="20"/> Mockito  
+  <img src="https://avatars.githubusercontent.com/u/45105066?s=200&v=4" width="20" height="20"/> Mockito  
 
 - **Databases**:  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20"/> MySQL  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20"/> PostgreSQL  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" height="20"/> MongoDB  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/h2/h2-original.svg" width="20" height="20"/> H2  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/H2_logo.svg" width="20" height="20"/> H2  
 
 - **DevOps**:  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20"/> Docker  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20" height="20"/> Kubernetes  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20" height="20"/> AWS  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="20" height="20"/> AWS  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="20" height="20"/> CI/CD  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="20" height="20"/> Jenkins  
 
@@ -66,13 +66,14 @@ I'm a **Junior Software Developer** based in Berlin with a focus on Backend and 
 - **Development Practices**:  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/> OOP  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="20" height="20"/> Microservices Architecture (Apache Kafka)  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" width="20" height="20"/> RESTful API  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/REST_API_Logo.svg" width="20" height="20"/> RESTful API  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/> Design Patterns  
 
 - **Methodology**:  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/agile/agile-original.svg" width="20" height="20"/> Agile  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrum/scrum-original.svg" width="20" height="20"/> Scrum  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kanban/kanban-original.svg" width="20" height="20"/> Kanban  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Agile-logo.svg" width="20" height="20"/> Agile  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_logo.svg" width="20" height="20"/> Scrum  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Kanbanboard.png" width="20" height="20"/> Kanban  
+ 
 
 
 ## Projects
