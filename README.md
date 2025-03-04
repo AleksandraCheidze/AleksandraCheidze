@@ -78,17 +78,19 @@ Here are some of my notable projects:
 **[Expenses Category Manager](https://github.com/AleksandraCheidze/ExpensesCategoryManager.git)**  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
 
-### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraCheidze&layout=compact&theme=tokyonight&langs_count=4)
-
-
-  ### 🔥 GitHub Activity
-This "snake" visualizes my GitHub activity over the past 365 days
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AleksandraCheidze/AleksandraCheidze/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraCheidze&layout=compact&theme=tokyonight&langs_count=4" />
 </p>
 
+### 🔥 GitHub Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AleksandraCheidze/AleksandraCheidze/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
+### 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AleksandraCheidze&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+</p>
 
 
 
