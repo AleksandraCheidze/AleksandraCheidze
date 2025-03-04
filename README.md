@@ -2,7 +2,9 @@
 <div id="header" align="center">
     <h1> 🌟 Hi there, I'm Aleksandra 👋 🌟</h1>
     <h3>Junior Fullstack Developer from Berlin with a focus on Backend </h3>
+## About Me
 
+I'm a **Junior Software Developer** based in Berlin with a focus on Backend and Fullstack development, passionate about creating powerful, scalable systems. I'm always curious about how things work behind the scenes and strive to build solutions that are not only functional but also efficient
 <br>🔭 I’m currently working on frontend development for my backend project, the crypto trading platform “Cassandra Trading.”<br>
 🌱 I’m currently learning Apache Kafka for Event-Driven Spring Boot Microservices at Udemy<br>
 👯 I’m looking to collaborate on fullstack development, with a strong focus on backend systems and scalable solutions<br>
@@ -12,9 +14,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="50" height="20"/>
 </a> <br>
 ⚡ Fun fact: In my free time, I enjoy diving into new ideas and projects—whether it’s something related to self-development or simply exploring interesting topics
-## About Me
 
-I'm a **Junior Software Developer** based in Berlin with a focus on Backend and Fullstack development, passionate about creating powerful, scalable systems. I'm always curious about how things work behind the scenes and strive to build solutions that are not only functional but also efficient.
 
 ## Skills
 
