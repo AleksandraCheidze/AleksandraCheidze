@@ -1,7 +1,9 @@
-
-<div id="header" align="center">
+<img aligne="right" src="gttps://visitor-badge.laobi.icu/badge?page_id=AleksandraCheidze.AleksandraCheidze" />
+<h1  align="center">
+    <img src="http://readme-typing-svg.herokuapp.com/?
+        font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines= Hi+there!+👋;I'm+Aleksandra!;" /> 
     <h1> 🌟 Hi there, I'm Aleksandra 👋 🌟</h1>
-    <h3>Junior Fullstack Developer from Berlin with a focus on Backend </h3>
+    <h3 aligne="center">Fullstack Developer from Berlin with a focus on Backend </h3>
     
 ## About Me
 
@@ -82,7 +84,11 @@ This "snake" visualizes my GitHub activity over the past 365 days
 <p align="center">
   <img src="https://raw.githubusercontent.com/AleksandraCheidze/AleksandraCheidze/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AleksandraCheidze&theme=react)
+### 🔥 GitHub Stats
+![AleksandraCheidze's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandraCheidze&show_icons=true&count_private=true&theme=tokyonight)
+
+
+
 
 
 ## Let's Connect!
