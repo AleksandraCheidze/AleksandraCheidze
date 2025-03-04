@@ -76,9 +76,11 @@ Here are some of my notable projects:
 ### 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraCheidze&layout=compact&theme=tokyonight&langs_count=4)
 
-github-contribution-grid-snake-dark.svg
 
-
+  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AleksandraCheidze/AleksandraCheidze/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 
 ## Let's Connect!
