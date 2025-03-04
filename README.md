@@ -23,15 +23,57 @@ I'm a **Junior Software Developer** based in Berlin with a focus on Backend and 
 
 ## Skills
 
-- **Languages**:   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20"/> 
+- **Languages**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/> Java  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> JavaScript  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20"/> TypeScript  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20"/> MySQL  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> HTML  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> CSS  
 
-- **Frameworks**: 🌱 Spring Boot, 💻 React, 🔄 Redux Toolkit, 🧩 Node.js, 🎨 Tailwind CSS, 🧭 Jakarta EE
-- **Testing**: ✅ JUnit, 🧪 Mockito
-- **Databases**: 🗄 MySQL, 💾 PostgreSQL, 🧱 MongoDB, 🏛 H2
-- **DevOps**: 🐳 Docker, 🧭 Kubernetes, ☁️ AWS, 🔗 CI/CD, 🔌 Jenkins
-- **Tools**: 🔧 Git/GitHub, 📍 VS Code, 🛠 IntelliJ IDEA, 🚀 Postman, 🗂 Swagger/OpenAPI
-- **Development Practices**: 🧩 OOP, 🔗 RESTful API, 🧵 Design Patterns, 🌍 Microservices Architecture (Apache Kafka)
-- **Methodology**: 🔄 Agile, 📅 Scrum, 🗂 Kanban
+- **Frameworks**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" height="20"/> Spring Boot  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> React  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="20" height="20"/> Redux Toolkit  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20"/> Node.js  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20" height="20"/> Tailwind CSS  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/> Jakarta EE  
+
+- **Testing**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/> JUnit  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mockito/mockito-original.svg" width="20" height="20"/> Mockito  
+
+- **Databases**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20"/> MySQL  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20"/> PostgreSQL  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" height="20"/> MongoDB  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/h2/h2-original.svg" width="20" height="20"/> H2  
+
+- **DevOps**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20"/> Docker  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20" height="20"/> Kubernetes  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20" height="20"/> AWS  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="20" height="20"/> CI/CD  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="20" height="20"/> Jenkins  
+
+- **Tools**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> Git/GitHub  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20"/> VS Code  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="20" height="20"/> IntelliJ IDEA  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="20" height="20"/> Postman  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="20" height="20"/> Swagger/OpenAPI  
+
+- **Development Practices**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/> OOP  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="20" height="20"/> Microservices Architecture (Apache Kafka)  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" width="20" height="20"/> RESTful API  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/> Design Patterns  
+
+- **Methodology**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/agile/agile-original.svg" width="20" height="20"/> Agile  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrum/scrum-original.svg" width="20" height="20"/> Scrum  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kanban/kanban-original.svg" width="20" height="20"/> Kanban  
+
 
 ## Projects
 
