@@ -16,7 +16,7 @@
 🌱 I’m currently learning Apache Kafka for Event-Driven Spring Boot Microservices at Udemy<br>
 👯 I’m looking to collaborate on fullstack development, with a strong focus on backend systems and scalable solutions<br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/aleksandra-cheidze-371148254">LinkedIn</a> | <a href="https://t.me/AlexaCxeidze">Telegram</a><br>
-⚡ Fun fact: In my free time, I enjoy diving into new ideas and projects—whether it’s something related to self-development or simply exploring interesting topics.
+⚡ Fun fact: In my free time, I enjoy diving into new ideas and projects—whether it’s something related to self-development or simply exploring interesting topics
 ## About Me
 
 I'm a **Junior Software Developer** based in Berlin with a focus on Backend and Fullstack development, passionate about creating powerful, scalable systems. I'm always curious about how things work behind the scenes and strive to build solutions that are not only functional but also efficient.
@@ -46,11 +46,29 @@ I'm a **Junior Software Developer** based in Berlin with a focus on Backend and 
 
 Here are some of my notable projects:
 
-- **[Beauty Treatment Booking System](https://github.com/AleksandraCheidze/BeautyBook)**
-- **[Crypto Trading Platform](https://github.com/AleksandraCheidze/Cassandra_Trading.git)**
-- **[Leanrning Managment System](https://github.com/AleksandraCheidze/LMS.git)**
-- **[React Sneakers Shop](https://github.com/AleksandraCheidze/React-Sneakers.git)**
-- **[Expenses Category Manager](https://github.com/AleksandraCheidze/ExpensesCategoryManager.git)**
+- **[Beauty Treatment Booking System](https://github.com/AleksandraCheidze/BeautyBook)**  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+- **[Crypto Trading Platform](https://github.com/AleksandraCheidze/Cassandra_Trading.git)**  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+- **[Learning Management System](https://github.com/AleksandraCheidze/LMS.git)**  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
+   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+- **[React Sneakers Shop](https://github.com/AleksandraCheidze/React-Sneakers.git)**  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+- **[Expenses Category Manager](https://github.com/AleksandraCheidze/ExpensesCategoryManager.git)**  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
+
+
 
 
 ## Let's Connect!
