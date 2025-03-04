@@ -24,10 +24,10 @@ I'm a **Junior Software Developer** based in Berlin with a focus on Backend and 
 ## Skills
 
 - **Languages**:  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="10" height="10"/> Java
-  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript,  
-  ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) TypeScript,  
-  ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) SQL
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20"/> 
 
 - **Frameworks**: 🌱 Spring Boot, 💻 React, 🔄 Redux Toolkit, 🧩 Node.js, 🎨 Tailwind CSS, 🧭 Jakarta EE
 - **Testing**: ✅ JUnit, 🧪 Mockito
