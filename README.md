@@ -2,6 +2,7 @@
 <div id="header" align="center">
     <h1> 🌟 Hi there, I'm Aleksandra 👋 🌟</h1>
     <h3>Junior Fullstack Developer from Berlin with a focus on Backend </h3>
+    
 ## About Me
 
 I'm a **Junior Software Developer** based in Berlin with a focus on Backend and Fullstack development, passionate about creating powerful, scalable systems. I'm always curious about how things work behind the scenes and strive to build solutions that are not only functional but also efficient
