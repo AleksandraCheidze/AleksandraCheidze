@@ -1,10 +1,13 @@
-<img aligne="right" src="gttps://visitor-badge.laobi.icu/badge?page_id=AleksandraCheidze.AleksandraCheidze" />
-<h1  align="center">
-    <img src="http://readme-typing-svg.herokuapp.com/?
-        font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines= Hi+there!+👋;I'm+Aleksandra!;" /> 
-    <h1> 🌟 Hi there, I'm Aleksandra 👋 🌟</h1>
-    <h3 aligne="center">Fullstack Developer from Berlin with a focus on Backend </h3>
-    
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AleksandraCheidze.AleksandraCheidze" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;I'm+Aleksandra!" />
+</h1>
+
+<h3 align="center" style="font-family: Righteous; color: #00aaff;">
+    Fullstack Developer from Berlin with a focus on Backend
+</h3>
+
 ## About Me
 
 I'm a **Junior Software Developer** based in Berlin with a focus on Backend and Fullstack development, passionate about creating powerful, scalable systems. I'm always curious about how things work behind the scenes and strive to build solutions that are not only functional but also efficient
