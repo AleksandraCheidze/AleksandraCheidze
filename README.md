@@ -23,7 +23,7 @@ I'm a **Junior Software Developer** based in Berlin with a focus on Backend and 
 
 ## Skills
 
-- **Languages**: ☕ Java, ⚡ JavaScript, 🔵 TypeScript, 🗃 SQL
+- **Languages**: <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />, ⚡ JavaScript, 🔵 TypeScript, 🗃 SQL
 - **Frameworks**: 🌱 Spring Boot, 💻 React, 🔄 Redux Toolkit, 🧩 Node.js, 🎨 Tailwind CSS, 🧭 Jakarta EE
 - **Testing**: ✅ JUnit, 🧪 Mockito
 - **Databases**: 🗄 MySQL, 💾 PostgreSQL, 🧱 MongoDB, 🏛 H2
