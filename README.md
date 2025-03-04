@@ -76,6 +76,8 @@ Here are some of my notable projects:
 ### 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraCheidze&layout=compact&theme=tokyonight&langs_count=4)
 
+github-contribution-grid-snake-dark.svg
+
 
 
 
