@@ -79,7 +79,7 @@ Here are some of my notable projects:
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraCheidze&layout=compact&theme=tokyonight&langs_count=4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraCheidze&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ### 🔥 GitHub Activity
