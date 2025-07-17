@@ -11,7 +11,7 @@
 ## About Me
 
 I'm a **Software Developer** based in Berlin with a focus on Backend and Fullstack development, passionate about creating powerful, scalable systems. I'm always curious about how things work behind the scenes and strive to build solutions that are not only functional but also efficient
-<br>🔭  I’m currently working on a website for the interior design brand “Arte Applicata”.”<br>
+<br>🔭  I’m currently working on a website for a skincare specialist — “About Your Skin”<br>
 👯 I’m looking to collaborate on fullstack development, with a strong focus on backend systems and scalable solutions<br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/aleksandra-cheidze-371148254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="50" height="20"/>
