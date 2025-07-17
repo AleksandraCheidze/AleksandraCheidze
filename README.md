@@ -79,6 +79,7 @@ Features:
 - Stripe payments  
 - Multilingual interface (DE/RU)
 - CMS integration and SEO-friendly architecture
+  
 🔒 *Source code is private and available upon request.*
 
 **[Beauty Treatment Booking System](https://github.com/AleksandraCheidze/BeautyBook)**  
