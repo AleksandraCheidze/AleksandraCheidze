@@ -62,6 +62,25 @@ I'm a **Software Developer** based in Berlin with a focus on Backend and Fullsta
 
 Here are some of my notable projects:
 
+**[Arte Applicata – Interior Design Studio Website](https://www.arteapplicata-design.de)**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)   
+Responsive website for an interior design brand, featuring multi-language support, CMS integration and SEO-friendly architecture.  
+🔒 *Source code is private and available upon request.*
+
+**[Gastrolecker – Eastern European Food Delivery Platform](https://www.gastrolecker.de)**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+A food delivery website for handcrafted Eastern European dishes.  
+Features:  
+- User registration & login
+- Admin panel
+- Delivery based on Berlin zones  
+- Stripe payments  
+- Multilingual interface (DE/RU)
+- CMS integration and SEO-friendly architecture
+🔒 *Source code is private and available upon request.*
+
 **[Beauty Treatment Booking System](https://github.com/AleksandraCheidze/BeautyBook)**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
