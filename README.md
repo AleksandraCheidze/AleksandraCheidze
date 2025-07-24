@@ -70,7 +70,7 @@ Extract and copy text from any video or web page area in one click.
 - OCR from video frames, images, or static content  
 - Fast and accurate Google Vision OCR   
 
-**[Arte Applicata – Interior Design Studio Website](https://www.arteapplicata-design.de)**  
+**[Arte Applicata – Custom Website for Interior Designer](https://www.arteapplicata-design.de)**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)   
 Responsive website for an interior design brand, featuring multi-language support, CMS integration and SEO-friendly architecture.  
 🔒 *Source code is private and available upon request.*
