@@ -62,6 +62,15 @@ I'm a **Software Developer** based in Berlin with a focus on Backend and Fullsta
 
 Here are some of my notable projects:
 
+**[Video Text Extractor](https://github.com/AleksandraCheidze/VTR.git)**  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat&logo=google-chrome&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Google Cloud Vision](https://img.shields.io/badge/Google_Cloud_Vision-4285F4?style=flat&logo=google-cloud&logoColor=white)  
+Extract and copy text from any video or web page area in one click.  
+**Features:**  
+- Select area on video or webpage  
+- OCR from video frames, images, or static content  
+- Fast and accurate Google Vision OCR   
+📦 [Installation guide in repo](https://github.com/AleksandraCheidze/VTR.git)
+
 **[Arte Applicata – Interior Design Studio Website](https://www.arteapplicata-design.de)**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)   
 Responsive website for an interior design brand, featuring multi-language support, CMS integration and SEO-friendly architecture.  
