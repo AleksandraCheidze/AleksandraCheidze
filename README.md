@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center" style="font-family: Righteous; color: #00aaff;">
-    Fullstack Developer from Berlin with a focus on Backend
+    Fullstack Developer from Berlin 
 </h3>
 
 ## About Me
